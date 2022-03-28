@@ -1,0 +1,19 @@
+{
+  "name": "yombide",
+  "version": "0.0.1",
+  "keywords": [
+    "simple",
+    "development",
+    "IDE"
+  ],
+  "author": "yomboprime",
+  "contributors": [],
+  "scripts": {
+    "start": "node src/server/server.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3",
+    "ws": "^8.5.0"
+  }
+}

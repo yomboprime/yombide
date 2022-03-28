@@ -1,0 +1,11 @@
+{
+	"Could not open project named: ": "Could not open project named: ",
+	"Error: project not found opening file: ": "Error: project not found opening file: ",
+	"Error loading file: ": "Error loading file: ",
+	"Error: project not found saving file: ": "Error: project not found saving file: ",
+	"Error saving file: ": "Error saving file: ",
+	"Refresh files list": "Refresh files list",
+	"Open project": "Open project",
+	"Save all files": "Save all files",
+	"Close file": "Close file"
+}

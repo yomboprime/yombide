@@ -1,0 +1,35 @@
+body {
+	margin: 0;
+	background-color: #000;
+	color: #fff;
+	font-family: Monospace;
+	font-size: 13px;
+	line-height: 24px;
+	overscroll-behavior: none;
+}
+
+span {
+	color: #fff;
+}
+
+table {
+  border-collapse: collapse;
+  font-size: 0.8rem;
+}
+
+td, th {
+  padding: 2px 2px;
+  color: #fff;
+}
+
+th {
+  background-color: rgb(85,85,85);
+}
+
+td {
+  text-align: left;
+}
+
+caption {
+  padding: 10px;
+}
